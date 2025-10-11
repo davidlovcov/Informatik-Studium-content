@@ -84,3 +84,13 @@ $$
 8. Löse $m$ Zeile nach Variable bei Pivot-Element auf
 9. Setze $m \rightarrow m - 1$. Wiederhole Schritt 8.-9. bis $m = 1$
 10. Die Lösung $\vec{x}$ kann abgelesen werden
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="01 Einführung zum Zeilen- und Spaltenbild">← Zurück</a>
+
+  <a href="03 Matrizenmultiplikation">Weiter →</a>
+
+</div>

@@ -92,3 +92,13 @@ Selbstlernzeit zur Vorbereitung und Nachbereitung
  - Angleichung des Wissens
  - Erste Gehversuche im Selbststudium
  - nacharbeiten wenn man es nicht heute schafft
+
+ <hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="Semester 1/Technische Informatik 1">← Zurück</a>
+
+  <a href="01 Zahlensysteme">Weiter →</a>
+
+</div>

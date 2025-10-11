@@ -27,3 +27,13 @@
 	- Ergebnis aus Addition kann 2 Tetraden beeinhalten
 		- Wert muss um 3 vergrößert werden
 	- Ansonsten muss um 3 verringert werden bei nur einem Überlauf für Korrektur
+
+	<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="03 Komplomente">← Zurück</a>
+
+  <!--<a href="03 Komplomente">Weiter →</a>-->
+
+</div>

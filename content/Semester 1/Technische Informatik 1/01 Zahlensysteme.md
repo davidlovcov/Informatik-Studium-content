@@ -154,7 +154,7 @@ $$
 $[0; \,2^n - 1]$
 
 $$
-\begin{array}{r@{\quad}r}
+\begin{array}{rr}
 000 & 0 \\
 001 & 1 \\
 010 & 2 \\
@@ -170,3 +170,12 @@ N = 8 -> Byte
 $[0; \,2^8 - 1]$
 $[0; \,255]$
 
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="00 Kick-Off und Organisatorisches">← Zurück</a>
+
+  <a href="02 Vorzeichen">Weiter →</a>
+
+</div>

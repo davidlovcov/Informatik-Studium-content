@@ -161,3 +161,13 @@ $\overline{\exists: A(x)} \Leftrightarrow \forall x: \overline{A(x)}$
 $Aussage$: "Es gibt ein Schneckenhaus, das gegen den Uhrzeigersinn gedreht ist"
 
 $\overline{Aussage}$: "Alle Schneckenhäuser, sind nicht gegen den Uhrzeigersinn gedreht"
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="Semester 1/Analysis">← Zurück</a>
+
+  <!--<a href="">Weiter →</a>-->
+
+</div>

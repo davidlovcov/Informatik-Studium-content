@@ -232,3 +232,13 @@ $$
 \lt \ \vec{a},\ \vec{b} \ \gt \ = \sum_{i = 1}^n a_i \cdot b_i \ (=  \lt \ \vec{b}, \ \vec{a}  \ \gt)
 \end{aligned}
 $$
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="02 Eliminationsmethode">← Zurück</a>
+
+  <!--<a href="">Weiter →</a>-->
+
+</div>

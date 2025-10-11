@@ -534,3 +534,12 @@ $\Rightarrow$ Wir sehen, dass die Spalten 1 und 2 bei $A$ gleich bzw. Vielfache 
 > [!Satz1.1] Lösbarkeit von Linearen Gleichungssystem
 > Die Gleichung $A \cdot \vec{x} = \vec{b}$ kann nur eindeutig auf ein $\vec{x}$ gelöst werden, wenn die Spalten von $A$ linear unabhängig ist
 
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="Semester 1/Lineare Algebra/Lineare Gleichungssysteme">← Zurück</a>
+
+  <a href="02 Eliminationsmethode">Weiter →</a>
+
+</div>

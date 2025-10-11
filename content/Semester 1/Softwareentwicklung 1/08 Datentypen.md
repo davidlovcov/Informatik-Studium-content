@@ -1,6 +1,7 @@
 ## Allgemein
 ---
-	Eine *Deklaration* führt eine Entität im Programm ein. Die Deklaration beinhalten einen Bezeichner und Datentypen. Später kann mit dem Bezeichner auf die Deklaration verwiesen werden. Man nennt es auch *referenzieren*
+> [!Deklaration] Deklaration
+> Eine **Deklaration** führt eine Entität im Programm ein. Die Deklaration beinhalten einen Bezeichner und Datentypen. Später kann mit dem Bezeichner auf die Deklaration verwiesen werden. Man nennt es auch **referenzieren**
 
 - Entität = Attribut
 - Es gibt verschiedene Arten von Entitäten

@@ -1,4 +1,5 @@
 **0: +**
+<br>
 **1: -**
 
 $$
@@ -14,10 +15,21 @@ $$
 \end{aligned}
 $$
 $$
-\begin{array}{r}
+\begin{array}{rr}
 	0101_2 \quad(5) \\
 - \;010_2 \quad(2)\\
- \hline
+ \hline 
 	011_2 \quad(3)
-\end{array}\
+\end{array}
 $$
+
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="01 Zahlensysteme">← Zurück</a>
+
+  <a href="03 Komplomente">Weiter →</a>
+
+</div>

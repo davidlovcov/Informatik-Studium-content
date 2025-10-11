@@ -16,3 +16,11 @@ $$
 	0110_2
 \end{array}
 $$
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="02 Vorzeichen">← Zurück</a>
+
+  <a href="04 Zahlencodes">Weiter →</a>
+
+</div>
