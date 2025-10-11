@@ -1,12 +1,11 @@
 ## Es gibt 2 Möglichkeiten, wie man mitwirken kann
----
 ### 1. Änderungen oder Zusammenfassungen in der What'sApp Gruppe oder privat schicken. Ich kann sie dann in Markdown, so gut wie möglich nachmachen
 
 ### 2. Direkt über GitHub mit Markdown und MathJax (Obsidian empfohlen)
 ---
 #### 1. Repository auf GitHub forken (Namen am besten behalten)
 ---
-![Fork-Button Beispiel](fork.png)
+![Fork-Button Beispiel](content/Bilder/fork.png)
 
 #### 2. Fork-Repository klonen
 ---
@@ -36,7 +35,7 @@ upstream        https://github.com/DEIN_USERNAME/Informatik-Studium-content (pus
 
 #### 4. Nun kann im *content*-Ordner gearbeitet werden
 ---
-![[folder.png]]
+![Ordner Beispiel](content/Bilder/folder.png)
 #### 5. Änderungen hochladen
 ---
 ```git
@@ -49,11 +48,11 @@ git push origin main
 
 #### 6. Auf GitHub in Fork-Repository gehen und ein pull request erstellen
 ---
-![[pull_request.png]]
+![Pull Request Beispiel](content/Bilder/pull_request.png)
 
 #### 7. Titel und Beschreibung ausfüllen (optional) und "_Create pull request_" drücken
 ---
-![[desc.png]]
+![Beschreibung Beispiel](content/Bilder/desc.png)
 
 <hr>
 
