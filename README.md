@@ -6,7 +6,7 @@
 ---
 #### 1. Repository auf GitHub forken (Namen am besten behalten)
 ---
-![[fork.png | 800]]
+![Fork-Button Beispiel](fork.png)
 
 #### 2. Fork-Repository klonen
 ---
