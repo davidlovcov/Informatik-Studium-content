@@ -16,7 +16,7 @@ class Auto {
     String blinkrichtung;
     boolean isBlinkerAn;
 
-    // Aufbau: Rückgabewert Methodenname (Parameter) {Methodenrumpf}
+    // Aufbau: Rückgabetyp Methodenname (Parameter) {Methodenrumpf}
     void fahren() {
         /* 
             Hier wäre dann bspw. Logik zum Fahren und sagen wir mal, 
