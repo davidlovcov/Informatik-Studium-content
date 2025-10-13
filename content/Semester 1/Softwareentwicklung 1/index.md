@@ -22,6 +22,10 @@ title: Softwareentwicklung 1
     <br>
 - ## [[10 Fachsprache 2]]
     <br>
+- ## [[11 Konstruktoren]]
+    <br>
+- ## [[12 Methoden]]
+    <br>
 
 <hr>
 

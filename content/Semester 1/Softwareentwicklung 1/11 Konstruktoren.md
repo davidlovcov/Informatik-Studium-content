@@ -25,6 +25,7 @@ class Schiff {
 ## _this_ Notation
 ---
 - Das _this_ gibt an, dass wir auf die Variablen der Klasse oder Instanz zugreifen wollen
+- Es referenziert sozusagen
 
 ## Initialisierung der Klasse
 ---
@@ -38,3 +39,13 @@ class Beispiel {
 ```
 
 - Wir erstellen eine Instanz der Klasse Schiff mit den Werten $5$ für die Geschwindigkeit und $50$ für die Länge
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="10 Fachsprache 2">← Zurück</a>
+
+  <a href="12 Methoden">Weiter →</a>
+
+</div>
