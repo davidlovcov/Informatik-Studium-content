@@ -1,6 +1,7 @@
 ---
 title: Technische Informatik 1
 ---
+
 - ## [[01 Zahlensysteme]]
     <br>
 - ## [[02 Vorzeichen]]
@@ -16,6 +17,6 @@ title: Technische Informatik 1
 
   <a href="Semester 1">← Zurück</a>
 
-  <a href="00 Kick-Off und Organisatorisches">Weiter →</a>
+  <a href="01 Zahlensysteme">Weiter →</a>
 
 </div>

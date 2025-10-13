@@ -2,8 +2,9 @@
 title: Semester 1
 ---
 
-- ## [[Semester-1/Technische Informatik 1/Zahlensysteme]]
-- ## [[Semester-1/Technische Informatik 1/Boolesche Algebra]]
+- ## [[Semester 1/Technische Informatik 1/Zahlensysteme]]
+	<br>
+- ## [[Semester 1/Technische Informatik 1/Boolesche Algebra]]
 
 <hr>
 
