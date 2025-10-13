@@ -11,8 +11,8 @@ title: Technische Informatik 1
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="/">← Zurück</a>
+  <a href="Semester 1">← Zurück</a>
 
-  <a href="Semester 1/Analysis">Weiter →</a>
+  <a href="Semester 1/Zahlensysteme">Weiter →</a>
 
 </div>
