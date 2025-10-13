@@ -1,5 +1,5 @@
 ---
-title: Technische Informatik 1
+title: Zahlensysteme
 ---
 
 - ## [[01 Zahlensysteme]]
