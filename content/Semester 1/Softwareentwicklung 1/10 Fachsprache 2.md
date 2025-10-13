@@ -16,6 +16,6 @@
 
   <a href="09 Instanzen">← Zurück</a>
 
-  <!-- <a href="10 Fachsprache 2">Weiter →</a> -->
+  <a href="11 Konstruktoren">Weiter →</a>
 
 </div>
