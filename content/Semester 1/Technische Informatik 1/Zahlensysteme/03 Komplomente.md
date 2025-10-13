@@ -17,6 +17,8 @@ $$
 \end{array}
 $$
 
+<hr>
+
 <div style="display: flex; justify-content: space-between;">
 
   <a href="02 Vorzeichen">← Zurück</a>
