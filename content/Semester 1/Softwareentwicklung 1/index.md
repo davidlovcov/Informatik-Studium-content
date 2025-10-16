@@ -26,6 +26,10 @@ title: Softwareentwicklung 1
     <br>
 - ## [[12 Methoden]]
     <br>
+- ## [[13 Fachsprache 3]]
+    <br>
+- ## [[14 Relationale und logische Operatoren]]
+    <br>
 
 <hr>
 
