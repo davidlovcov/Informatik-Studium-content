@@ -221,3 +221,13 @@ $$
 $$
 
 $\Rightarrow$ Das Produkt ist in beiden Multiplikationen symmetrisch
+
+<hr>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="05 Inverse Matrix">← Zurück</a>
+
+  <!--<a href="06 Transponierte einer Matrix">Weiter →</a> -->
+
+</div>

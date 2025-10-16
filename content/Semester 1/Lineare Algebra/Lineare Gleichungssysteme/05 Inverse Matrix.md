@@ -77,7 +77,7 @@ $$
 \cdot
 
 \begin{bmatrix}
-b_{1,1} & b_{1,2}\\
+b_{1,1} & b_{1,2} \\
 b_{2,1} & b_{2,2}
 \end{bmatrix}
 
@@ -112,12 +112,13 @@ b_{2,1}
 \\\\
 
 \Rightarrow
-\left\{
-\begin{array}. 
-1 \cdot b_{1,1} + 3 \cdot b_{21} &= 1 \\
-2 \cdot b_{1,1} + 6 \cdot b_{21} &= 0
+\left(
+\begin{array}{rl}
+1 \cdot b_{1,1} + 3 \cdot b_{2,1} &= 1 \\
+2 \cdot b_{1,1} + 6 \cdot b_{2,1} &= 0
 \end{array}
-\right\}
+\right)
+
 
 \\\\
 
@@ -130,7 +131,7 @@ b_{1,1} &= 1 - 3b_{2,1}
 \\\\
 2 \cdot (1 - 3b_{2,1}) + 6b_{2,1} &= 0 \\
 2 - 6b_{2,1} + 6b_{2,1} &= 0 \\
-2 &= 0 \; \unicode{x21af} \quad \Rightarrow \text{nicht lösbar!}
+2 &= 0 \; \quad \Rightarrow \text{nicht lösbar!}
 
 \end{aligned}
 $$
@@ -257,6 +258,7 @@ $$
 \end{array}
 \right]
 $$
+
 $$
 \Rightarrow
 A^{-1} =
@@ -264,7 +266,9 @@ A^{-1} =
 7 & -3 \\
 -2 & 1
 \end{bmatrix}
-$$ **Überprüfung:** $$
+$$
+**Überprüfung:**
+$$
 \begin{aligned}
 
 \begin{bmatrix}
@@ -282,8 +286,8 @@ $$ **Überprüfung:** $$
 =
 
 \begin{bmatrix}
-7 + (-6) && -3 + 3 \\
-14 + (-14) && (-6) + 7
+7 + (-6) & -3 + 3 \\
+14 + (-14) & (-6) + 7
 \end{bmatrix}
 
 =
