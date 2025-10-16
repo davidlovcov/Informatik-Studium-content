@@ -448,6 +448,6 @@ $\Rightarrow A \cdot B = \vec{a_1} \cdot \vec{b_1} + \vec{a_2} + \vec{b_2} + \do
 
   <a href="02 Eliminationsmethode">← Zurück</a>
 
-  <!--<a href="">Weiter →</a>-->
+  <a href="04 Eliminationsmethode in Matrix-Schreibweise">Weiter →</a>
 
 </div>

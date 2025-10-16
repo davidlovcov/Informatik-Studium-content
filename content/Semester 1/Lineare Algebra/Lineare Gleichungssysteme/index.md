@@ -8,6 +8,12 @@ title: Lineare Gleichungssysteme
     <br>
 - ## [[03 Matrizenmultiplikation]]
     <br>
+- ## [[04 Eliminationsmethode in Matrix-Schreibweise]]
+	<br>
+- ## [[05 Inverse Matrix]]
+	<br>
+- ## [[06 Transponierte einer Matrix]]
+	<br>
 
 <hr>
 

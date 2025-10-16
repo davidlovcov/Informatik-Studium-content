@@ -1,5 +1,7 @@
 ## Gauß-Algorithmus
 ---
+- Mithilfe des Gauß-Algorithmus können wir Gleichungssysteme lösen
+
 **geg.:**
 $$
 \begin{aligned}
