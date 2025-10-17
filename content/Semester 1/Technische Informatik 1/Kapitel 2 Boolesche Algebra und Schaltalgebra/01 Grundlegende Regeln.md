@@ -34,7 +34,7 @@ $x + \overline{x} = e$
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="Semester 1/Technische Informatik 1/Boolesche Algebra">← Zurück</a>
+  <a href="Semester 1/Technische Informatik 1/Kapitel 2 Boolesche Algebra und Schaltalgebra">← Zurück</a>
 
   <a href="Schaltalgebra">Weiter →</a>
 

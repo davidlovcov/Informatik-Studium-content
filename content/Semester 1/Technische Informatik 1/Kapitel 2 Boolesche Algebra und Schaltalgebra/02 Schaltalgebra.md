@@ -45,8 +45,8 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="Grundlegende Regeln">← Zurück</a>
+  <a href="01 Grundlegende Regeln">← Zurück</a>
 
-  <a href="Schaltalgebra">Weiter →</a>
+  <a href="03 Gater">Weiter →</a>
 
 </div>

@@ -538,7 +538,7 @@ $\Rightarrow$ Wir sehen, dass die Spalten 1 und 2 bei $A$ gleich bzw. Vielfache 
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="Semester 1/Lineare Algebra/Lineare Gleichungssysteme">← Zurück</a>
+  <a href="Semester 1/Lineare Algebra/Kapitel 1 Lineare Gleichungssysteme">← Zurück</a>
 
   <a href="02 Eliminationsmethode">Weiter →</a>
 

@@ -174,7 +174,7 @@ $[0; \,255]$
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="00 Kick-Off und Organisatorisches">← Zurück</a>
+  <a href="index">← Zurück</a>
 
   <a href="02 Vorzeichen">Weiter →</a>
 

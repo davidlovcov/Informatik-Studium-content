@@ -29,7 +29,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <a href="Schaltalgebra">← Zurück</a>
+  <a href="02 Schaltalgebra">← Zurück</a>
 
   <!-- <a href=>Weiter →</a>  -->
 

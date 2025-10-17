@@ -2,7 +2,7 @@
 title: Lineare Algebra
 ---
 
-## [[Semester 1/Lineare Algebra/Lineare Gleichungssysteme]]
+- ## [[Semester 1/Lineare Algebra/Kapitel 1 Lineare Gleichungssysteme]]
 
 <hr>
 

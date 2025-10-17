@@ -3,11 +3,11 @@ title: Boolesche Algebra
 ---
 
 
-- ## [[Schaltalgebra]]
+- ## [[01 Grundlegende Regeln]]
     <br>
-- ## [[Schaltalgebra]]
+- ## [[02 Schaltalgebra]]
     <br>
-- ## [[Gater]]
+- ## [[03 Gater]]
     <br>
 <hr>
 
@@ -15,6 +15,6 @@ title: Boolesche Algebra
 
   <a href="Semester 1/Technische Informatik 1">← Zurück</a>
 
-  <a href="Grundlegende Regeln">Weiter →</a>
+  <a href="01 Grundlegende Regeln">Weiter →</a>
 
 </div>
