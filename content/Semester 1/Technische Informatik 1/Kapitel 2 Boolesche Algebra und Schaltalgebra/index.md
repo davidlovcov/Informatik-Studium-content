@@ -1,5 +1,5 @@
 ---
-title: Boolesche Algebra
+title: Kapitel 2 Boolesche Algebra und Schaltalgebra
 ---
 
 

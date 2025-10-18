@@ -4,7 +4,7 @@ title: Technische Informatik 1
 
 - ## [[Semester 1/Technische Informatik 1/Kapitel 1 Zahlensysteme]]
 	<br>
-- ## [[Semester 1/Technische Informatik 1/Kapitel 2 Boolesche Algebra]]
+- ## [[Semester 1/Technische Informatik 1/Kapitel 2 Boolesche Algebra und Schaltalgebra]]
   <br>
 - ## [[Semester 1/Technische Informatik 1/Kapitel 3 Entwurf von Schaltnetzen]]
   <br>

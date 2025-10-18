@@ -1,5 +1,5 @@
 ---
-title: Lineare Gleichungssysteme
+title: Kapitel 1 Lineare Gleichungssysteme
 ---
 
 - ## [[01 Einführung zum Zeilen- und Spaltenbild]]

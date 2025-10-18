@@ -1,5 +1,5 @@
 ---
-title: Boolesche Algebra
+title: Kapitel 3 Entwurf von Schaltnetzen
 ---
 
 
